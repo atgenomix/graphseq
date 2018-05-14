@@ -4,7 +4,7 @@ De novo genome assembly is an important application on both uncharacterized geno
 
 ## System Flow
 
-<img src="docs/images/flowchart.jpg" width="640" title="GraphSeq">
+<img src="docs/images/flowchart.jpg" width="800" title="GraphSeq">
 
 ## Usage
 

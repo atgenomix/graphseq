@@ -28,9 +28,9 @@ De novo genome assembly is an important application on both uncharacterized geno
 # Citing GraphSeq
 
 
-  @techreport{Su18,
-    title={{GraphSeq}: Accelerating String Graph Construction for De Novo Assembly on Spark},
-    author={Su, Chung-Tsai and Chang, Ming-Tai and Cheng, Yun-Chian and Li, Yun-Lung and Wang, Yao-Ting},
-    year={2018},
-    institution={Atgenomix}
-  }
+    @techreport{Su18,
+        title={{GraphSeq}: Accelerating String Graph Construction for De Novo Assembly on Spark},
+        author={Su, Chung-Tsai and Chang, Ming-Tai and Cheng, Yun-Chian and Li, Yun-Lung and Wang, Yao-Ting},
+        year={2018},
+        institution={Atgenomix}
+    }

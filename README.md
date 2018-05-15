@@ -4,7 +4,7 @@ GraphSeq: Accelerating String Graph Construction for De Novo Assembly on Spark
 
 De novo genome assembly is an important application on both uncharacterized genome assembly and variant iden-tification in a reference-unbiased way. In comparison with de Brujin graph, string graph is a lossless data represen-tation for de novo assembly. However, string graph construction is computational intensive. We propose GraphSeq to accelerate string graph construction by leveraging the distributed computing framework.
 
-# System Flow
+# Workflow
 
 <img src="docs/images/flowchart.jpg" width="800" title="GraphSeq">
 

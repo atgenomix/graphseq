@@ -28,7 +28,7 @@ De novo genome assembly is an important application on both uncharacterized geno
 
 # Citing GraphSeq
 
-GraphSeq is published at (BioRxiv)[https://www.biorxiv.org/content/early/2018/05/14/321729] for open access. 
+GraphSeq is published at [BioRxiv](https://www.biorxiv.org/content/early/2018/05/14/321729) for open access. 
 
     @techreport{Su18,
         title={{GraphSeq}: Accelerating String Graph Construction for De Novo Assembly on Spark},

@@ -24,3 +24,12 @@ De novo genome assembly is an important application on both uncharacterized geno
     -profiling             : Enable performance profiling and output to $OUTPUT/STATS
     -rmdup                 : Remove duplication of reads
     -stats                 : Enable to output statistics of String Graph to $OUTPUT/STATS
+
+# Citing GraphSeq
+
+@techreport{Su18,
+  title={{GraphSeq}: Accelerating String Graph Construction for De Novo Assembly on Spark},
+  author={Su, Chung-Tsai and Chang, Ming-Tai and Cheng, Yun-Chian and Li, Yun-Lung and Wang, Yao-Ting},
+  year={2018},
+  institution={Atgenomix}
+}
